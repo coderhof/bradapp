@@ -1,4 +1,4 @@
-# MealBook
+# BradApp
 
 A free, mobile-friendly recipe book and weekly meal planner designed for iPhone.
 

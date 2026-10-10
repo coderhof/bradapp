@@ -1,12 +1,12 @@
 {
-  "name": "MealBook",
-  "short_name": "MealBook",
+  "name": "BradApp",
+  "short_name": "BradApp",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f7f3ec",
-  "theme_color": "#f7f3ec",
-  "description": "Your recipes, weekly meal plan and grocery list.",
+  "background_color": "#f2ede4",
+  "theme_color": "#203957",
+  "description": "A refined home for your recipes, weekly meal plan and grocery list.",
   "icons": [
     {
       "src": "./icon-192.png",
